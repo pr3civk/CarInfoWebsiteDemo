@@ -1,0 +1,19 @@
+{
+  "cities": [
+    {
+      "name": "New York",
+      "population": 8398748,
+      "country": "USA"
+    },
+    {
+      "name": "Tokyo",
+      "population": 9273000,
+      "country": "Japan"
+    },
+    {
+      "name": "London",
+      "population": 8982000,
+      "country": "UK"
+    }
+  ]
+}
